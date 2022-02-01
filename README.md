@@ -40,3 +40,16 @@
 <h4><strong>WEB DEVELOPMENT</strong></h4>
 
 <img alt="TF" src="https://img.shields.io/badge/Node_JS-grey?style=for-the-badge&logo=Nodedotjs"/> <img alt="TF" src="https://img.shields.io/badge/Mongo_DB-grey?style=for-the-badge&logo=mongodb"/> <img alt="TF" src="https://img.shields.io/badge/REACT-grey?style=for-the-badge&logo=REACT&logoColor=Green"/> <img alt="TF" src="https://img.shields.io/badge/AWS-grey?style=for-the-badge&logo=amazonaws&logoColor=Yellow"/> <img alt="TF" src="https://img.shields.io/badge/Laravel-grey?style=for-the-badge&logo=laravel&logoColor=Yellow"/> <img alt="TF" src="https://img.shields.io/badge/PostgreSQL-grey?style=for-the-badge&logo=postgresql&logoColor=Yellow"/> <img alt="TF" src="https://img.shields.io/badge/Gatsby_JS-grey?style=for-the-badge&logo=gatsby&logoColor=Yellow"/>
+
+<hr>
+
+<br>
+<h1 align="center">Get In Touch!</h1>
+<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/angshuman-barpujari-26504016b/"><img alt="TF" src="https://img.shields.io/badge/LinkedIn-26A5E4?style=for-the-badge&logo=LinkedIn&logoColor=white"/><a> 
+  <a href="mailto:raysummee@gmail.com"><img alt="TF" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:admin@raysummee.com"><img alt="TF" src="https://img.shields.io/badge/Email_Official-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/raysummee"><img alt="TF" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/><a>
+    
+</p>
