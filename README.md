@@ -3,13 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raysummee&label=Profile%20views&color=0e75b6&style=flat" alt="raysummee" /> </p>
 
-
-- 🔭 I’m currently working on **Ratofy**
-
-- 🌱 I’m currently learning **Blockchain**
-
-- 🤝 I’m looking for help with [Raylex](https://github.com/raysummee/Raylex)
-
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **raysummee@gmail.com**, **admin@raysummee.com**
